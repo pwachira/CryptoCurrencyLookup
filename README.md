@@ -6,7 +6,7 @@ command-line and returns its price and market cap obtained from the API at
 Clone the repository 
 
  ```
- git clone git@github.com:pwachira/CryptoCurrencyLookup.git 
+ git clone https://github.com/pwachira/CryptoCurrencyLookup.git
  ```
 
 Run a gradle build
