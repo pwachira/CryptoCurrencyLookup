@@ -12,7 +12,7 @@ Clone the repository
 Run a gradle build
 
  ```
- ./gradlew build shadowJar 
+ cd CryptoCurrencyLookup && ./gradlew build shadowJar 
  ```
 
 Build the docker image
